@@ -1,4 +1,4 @@
 # Weather_In_City-Python
 Having fun learning about implementing APIs.
 
-Simple real-time weather checking app. I plan to develop this into a interactive application by adding a GUI. 
+This program uses the WeatherAPI to get the current weather information for a given city. The user enters the name of the city in the city_entry widget, and the program then makes an API call to the WeatherAPI to get the current temperature. The temperature is then displayed in the temperature_entry widget on the GUI
